@@ -116,7 +116,7 @@ Based on the project goals, the following key analyses were performed:
 - 🛍️ Products Offering ≥50% Discount  
 - 📈 Correlation Between Rating and Discount  
 - 📊 Average Actual Price vs Discounted Price by Category  
-- 🔢 Number of Unique Products per Price Range Bucket (e.g., <₦10k, ₦10k–₦50k, >₦50k)  
+- 🔢 Number of Unique Products per Price Range Bucket (e.g., )  
 - 🔎 Categories with the Highest Discounts  
 - 🏆 Top 5 Products Based on Combined Ratings and Review Counts  
 
@@ -131,11 +131,6 @@ Dashboards and pivot tables were used in Excel to visualize:
 - Review and rating distributions  
 
 **Dashboard snapshots:**  
-- ![Overview](https://private-user-images.githubusercontent.com/183140356/462810913-735fe02b-5a9c-41b2-a9b2-db85243b71be.png)  
-- ![Price & Reviews](https://private-user-images.githubusercontent.com/183140356/462810942-ea77b159-36a6-4b7c-869e-48d8af76de5f.png)  
-- ![Ratings & Revenue](https://private-user-images.githubusercontent.com/183140356/462811019-6308a8af-dc3d-4e19-a5a8-80b2cad448a8.png)  
-- ![Top Products](https://private-user-images.githubusercontent.com/183140356/462811667-2ddaa0ba-ca1e-4093-94bf-8a7f842bd646.png)  
-- ![Full Dashboard](https://private-user-images.githubusercontent.com/183140356/462811089-ac4608f6-5c0c-4891-85ac-23f7406315ac.png)  
 
 ---
 
@@ -168,15 +163,4 @@ Rather than focusing only on heavy discounts, apply moderate price cuts to quali
 
 ### 5. 💵 Focus on Competitive Price Ranges  
 Target the **₦10k – ₦50k** range where most sales and product listings occur.
-
-### 6. 📈 Expand Future Analysis  
-Incorporate sentiment analysis of customer reviews and advanced dashboards (Power BI or Tableau) to enhance decision-making.
-
-
----
-
-✅ If you’d prefer to upload instead, you can download this as a file and upload it directly to your GitHub repository.
-
-Would you like a guide on how to upload it to GitHub?
-
 
