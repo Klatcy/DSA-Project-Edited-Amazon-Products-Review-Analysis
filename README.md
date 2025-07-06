@@ -116,7 +116,7 @@ Based on the project goals, the following key analyses were performed:
 - 🛍️ Products Offering ≥50% Discount  
 - 📈 Correlation Between Rating and Discount  
 - 📊 Average Actual Price vs Discounted Price by Category  
-- 🔢 Number of Unique Products per Price Range Bucket (e.g., )  
+- 🔢 Number of Unique Products per Price Range Bucket (e.g., < ₹200, ₹200–₹500, > ₹500)  
 - 🔎 Categories with the Highest Discounts  
 - 🏆 Top 5 Products Based on Combined Ratings and Review Counts  
 
@@ -141,7 +141,7 @@ The analysis of Amazon product data provided insightful findings across multiple
 - **Electronics** and **Home & Kitchen** had the highest number of products and reviews, indicating strong demand and engagement.  
 - **Toys & Games** and **Office Products** had fewer reviews despite a moderate number of listings, showing opportunity for better visibility or engagement.  
 - **Musical Instruments** and **Health & Personal Care** received some of the highest average ratings, suggesting strong customer satisfaction.  
-- The **₦10,000 – ₦50,000** price range had the most unique products, making it the most competitive segment.  
+- The **₹200 – ₹500** price range had the most unique products, making it the most competitive segment.  
 - A large number of products had discounts of **50% or more**, but these did not always align with high ratings.  
 - Products with high review counts tended to dominate potential revenue, emphasizing the importance of customer feedback over pricing alone.
 
@@ -162,5 +162,7 @@ Improve marketing and presentation for products with fewer than 1,000 reviews, e
 Rather than focusing only on heavy discounts, apply moderate price cuts to quality products to build long-term value.
 
 ### 5. 💵 Focus on Competitive Price Ranges  
-Target the **₦10k – ₦50k** range where most sales and product listings occur.
+Target the **₹200 – ₹500** range where most sales and product listings occur.
+
+.
 
