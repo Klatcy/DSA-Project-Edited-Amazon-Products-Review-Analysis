@@ -53,8 +53,9 @@ The dataset was **web-scraped from Amazon** and includes **1,465 rows** and **16
 
 The dataset includes product details such as name, category, price, discount, and ratings. It also includes customer review metrics. It was transformed and cleaned to support analysis by creating fields like:
 
-- `discounted_price`  
-- `potential_revenue`  
+- 'price range bucket'
+- `potential_revenue`
+- 'weighted score' 
 
 Each row is a product record, with review data summarized for analysis.
 
@@ -63,7 +64,7 @@ Each row is a product record, with review data summarized for analysis.
 ## 🛠️ Tools Used
 
 - **Microsoft Excel** – Data cleaning, pivot tables, dashboards  
-- **SQL** – Querying and slicing data  
+
 - **GitHub** – Hosting project files  
   [GitHub Repo](https://github.com/Klatcy/DSA-Project-.-Amazon-Product-Review-Analysis-/)
 
@@ -75,12 +76,12 @@ Before diving into the analysis, the dataset was cleaned and preprocessed to ens
 
 - Removing null or missing values in critical columns like product name, category, price, and rating.  
 - Converting data types: Prices and discounts were converted from strings to numerical formats for computation.  
-- Standardizing text in columns like product name and category (e.g., lowercasing, trimming spaces).  
-- Filtering invalid entries: Removed products with price or rating equal to 0.  
-- Extracting numerical values from strings (e.g., "50% off" → 50).  
-- Creating new columns:  
-  - `discounted_price = price - (price × discount%)`  
-  - `potential_revenue = discounted_price × number_of_reviews`
+- Splitting Category column 
+- Filtering invalid entries: Removed products with price or rating equal to 0.   
+- Creating new columns:   
+  - `potential_revenue = actual_price × number_of_reviews`
+  - 'Weighted Score =rating * rating count'
+  - 'Price range bucket = , If actual_price< 200,"₹200", If actual_price < 500, "₹200–₹500", > "₹500"))
 
 This preparation step ensured that the dataset was ready for meaningful and accurate analysis.
 
@@ -132,6 +133,27 @@ Dashboards and pivot tables were used in Excel to visualize:
 
 **Dashboard snapshots:**  
 
+![Pivot 1234  Amazon](https://github.com/user-attachments/assets/3af842ca-f62d-472c-b6a0-10ef11352956)
+
+
+
+![Pivot 5 6 7 Amazon](https://github.com/user-attachments/assets/f8c7f66c-5bd1-42f1-a1e1-2a87f092e4d9)
+
+
+
+![Pivot 8, 9, 10, 11  Amazon](https://github.com/user-attachments/assets/3d049639-d0ed-4ff9-9d22-97c533af2309)
+
+
+
+![Pivot 12, 13, 14   Amazon](https://github.com/user-attachments/assets/d30cafc6-44c9-4075-81b2-ca5653fb8565)
+
+
+
+
+![Amazon Dashboard](https://github.com/user-attachments/assets/410a110d-0f8f-4268-8757-0732785ad89a)
+
+
+
 ---
 
 ## ✅ Conclusion
@@ -142,7 +164,7 @@ The analysis of Amazon product data provided insightful findings across multiple
 - **Toys & Games** and **Office Products** had fewer reviews despite a moderate number of listings, showing opportunity for better visibility or engagement.  
 - **Musical Instruments** and **Health & Personal Care** received some of the highest average ratings, suggesting strong customer satisfaction.  
 - The **₹200 – ₹500** price range had the most unique products, making it the most competitive segment.  
-- A large number of products had discounts of **50% or more**, but these did not always align with high ratings.  
+- A large number of products had discounts of **50% or more**, but these did not always align with high ratings.
 - Products with high review counts tended to dominate potential revenue, emphasizing the importance of customer feedback over pricing alone.
 
 ---
