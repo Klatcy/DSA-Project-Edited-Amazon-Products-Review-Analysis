@@ -21,7 +21,12 @@
 
 ## ✅ Introduction
 
-In today's data-centric business landscape, informed decision-making is crucial. This project involves analyzing Amazon product reviews to uncover key trends and generate actionable insights that can inform product development, marketing strategies, and consumer engagement. The goal is to provide a roadmap for product improvements and drive sustainable growth.
+
+---
+
+Introduction
+
+In the ever-evolving world of e-commerce, data-driven insights are critical to maintaining a competitive edge. This case study focuses on the analysis of product and customer review data sourced from Amazon, one of the largest global online marketplaces. Conducted under the guidance of RetailTech Insights, a firm that specializes in providing analytics solutions to online sellers, this analysis aims to uncover meaningful trends and patterns that can drive product enhancement, targeted marketing strategies, and improved customer engagement.
 
 ---
 
