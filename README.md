@@ -138,24 +138,71 @@ Dashboards and pivot tables were used in Excel to visualize:
 
 **Dashboard snapshots:**  
 
-![Pivot 1234  Amazon](https://github.com/user-attachments/assets/3af842ca-f62d-472c-b6a0-10ef11352956)
-
-
-
-![Pivot 5 6 7 Amazon](https://github.com/user-attachments/assets/f8c7f66c-5bd1-42f1-a1e1-2a87f092e4d9)
-
-
-
-![Pivot 8, 9, 10, 11  Amazon](https://github.com/user-attachments/assets/3d049639-d0ed-4ff9-9d22-97c533af2309)
-
-
-
-![Pivot 12, 13, 14   Amazon](https://github.com/user-attachments/assets/d30cafc6-44c9-4075-81b2-ca5653fb8565)
 
 
 
 
-![Amazon Dashboard](https://github.com/user-attachments/assets/410a110d-0f8f-4268-8757-0732785ad89a)
+1. ![Pivot 1234  Amazon](https://github.com/user-attachments/assets/3af842ca-f62d-472c-b6a0-10ef11352956)
+
+
+
+
+The pivot table above provides a comprehensive report, showcasing:
+
+- Average Discount Percentage by Product Category
+- Total Number of Products in each Category
+- Total Number of Reviews by Category
+- Products with the Highest Average Rating in each Category
+
+
+
+
+
+2. ![Pivot 5 6 7 Amazon](https://github.com/user-attachments/assets/f8c7f66c-5bd1-42f1-a1e1-2a87f092e4d9)
+
+
+
+
+The pivot table above provides a comprehensive report, showcasing:
+
+- Average Actual Price Vs Discounted Price by Category.
+- Products With Highest Number of Review.
+- Products With 50% Discount and more.
+  
+
+
+
+
+3. ![Pivot 8, 9, 10, 11  Amazon](https://github.com/user-attachments/assets/3d049639-d0ed-4ff9-9d22-97c533af2309)
+
+The pivot table above provides a comprehensive report, showcasing:
+
+- Distribution of Product Rating
+- Total Potential Revenue by Category
+- Unique Products Per Price Range 
+- Rating Relating to Level of Discount
+
+
+  
+
+4. ![Pivot 12, 13, 14   Amazon](https://github.com/user-attachments/assets/d30cafc6-44c9-4075-81b2-ca5653fb8565)
+
+
+
+The pivot table above provides a comprehensive report, showcasing:
+
+- Products lesser than 1000
+- Product Category With Highest Discount
+- Top 5 Products in Terms of Rating and Review 
+
+
+
+5. ![Amazon Dashboard](https://github.com/user-attachments/assets/410a110d-0f8f-4268-8757-0732785ad89a)
+
+
+
+
+In analyzing Amazon product reviews, various visualization tools were employed, including column charts, bar charts, pie charts, and line charts, providing a comprehensive understanding of the review data.
 
 
 
