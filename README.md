@@ -5,17 +5,6 @@
 ---
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)  
-- [Project Overview](#project-overview)  
-- [Data Sources](#data-sources)  
-- [About the Dataset](#about-the-dataset)  
-- [Tools Used](#tools-used)  
-- [Data Cleaning and Preparations](#data-cleaning-and-preparations)  
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-- [Data Analysis](#data-analysis)  
-- [Data Visualization](#data-visualization)  
-- [Conclusion](#conclusion)  
-- [Recommendations](#recommendations)  
 
 ---
 
@@ -23,8 +12,6 @@
 
 
 ---
-
-Introduction
 
 In the ever-evolving world of e-commerce, data-driven insights are critical to maintaining a competitive edge. This case study focuses on the analysis of product and customer review data sourced from Amazon, one of the largest global online marketplaces. Conducted under the guidance of RetailTech Insights, a firm that specializes in providing analytics solutions to online sellers, this analysis aims to uncover meaningful trends and patterns that can drive product enhancement, targeted marketing strategies, and improved customer engagement.
 
