@@ -6,7 +6,17 @@
 
 ### 📌 Table of Contents
 
-
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [About the Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparations](#data-cleaning-and-preparations)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
 
 ## ✅ Introduction
 
