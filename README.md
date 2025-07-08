@@ -194,8 +194,9 @@ The pivot table above provides a comprehensive report, showcasing:
 
 
 
-5. ![Amazon Dashboard](https://github.com/user-attachments/assets/410a110d-0f8f-4268-8757-0732785ad89a)
+5. ![Amazon Dashboard]
 
+![Amazon Dashboard New](https://github.com/user-attachments/assets/6d950e4e-9717-4d1f-83b3-9ef64e0a00e2)
 
 
 
